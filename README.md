@@ -14,7 +14,6 @@
 ![Cuplikan layar 2024-10-22 membuat layout sederhana 2](https://github.com/user-attachments/assets/733e3589-4a5a-4033-afc6-86d3357ebde8)
 ![Cuplikan layar 2024-10-22 membuat layout sederhana 3](https://github.com/user-attachments/assets/8a8100f0-39d2-4f7f-81e4-0f32c8f7c864)
 
-
 # Pertanyaan dan Tugas
 1. Tambahkan Layout untuk menu About
 => buat single layout yang berisi deskripsi, portfolio, dll
